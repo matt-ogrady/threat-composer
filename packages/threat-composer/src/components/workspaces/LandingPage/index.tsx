@@ -56,7 +56,7 @@ const LandingPage: FC<LandingPageProps> = ({
       }
     >
       <SpaceBetween direction="vertical" size="s">
-        <Container header={<Header variant="h2">How it works</Header>}>
+        <Container header={<Header variant="h2">Welcome to Build a Threat Model</Header>}>
           <Box padding="xxl">
             <img
               style={{
